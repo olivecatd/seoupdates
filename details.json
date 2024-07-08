@@ -1,6 +1,6 @@
  {
  	"name" : "Seo Backlinks",
- 	"version" : "1.31",
+ 	"version" : "1.32",
  	"download_url" : "https://github.com/olivecatd/seoupdates/releases/download/v1.3/seo-backlinks.zip",
  	"sections" : {
  		"description" : "A plugin for backlink exchange"
